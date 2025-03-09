@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+media/
+venv/
+
+# Django environment files
+.env
+*.secret
+
+# Node.js (for React)
+node_modules/
+dist/
+.vscode/
+.DS_Store
